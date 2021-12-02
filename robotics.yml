@@ -1,0 +1,16 @@
+name: robotics
+channels:
+  - bioconda
+  - conda-forge
+  - robostack
+  - defaults
+  - anaconda
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - hvplot
+  - holoviews
+  - spyder
+  - notebook
